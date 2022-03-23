@@ -1,0 +1,1 @@
+Documento criado apenas para aperfeiçoar o aprendizado no Git.
